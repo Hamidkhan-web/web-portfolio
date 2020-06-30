@@ -1,0 +1,22 @@
+
+   body{
+    font-family: 'Josefin Sans', sans-serif;
+   }
+   h1{
+       font-size: 44px;
+     font-family: 'Krona One', sans-serif;
+
+
+   }
+   .colar{
+       color: orange;
+   }
+   .half-width{
+     width: 40%;
+     float: left;
+     margin-left: 5%;
+     padding-left: 2%;
+   }
+   .half-width img{
+     width: 100%;
+   }
